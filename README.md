@@ -15,7 +15,7 @@ La arquitectura es de tipo "Maestro-Esclavo-Nube", garantizando la estabilidad y
 3.  **Nodo Esclavo (ESP32-CAM):** Recibe el JSON, toma la foto, la codifica en Base64.
 4.  **Backend (Google Apps Script - GAS):**
     * Recibe el paquete JSON + Foto.
-    * Consulta en tiempo real la **API de OpenWeatherMap** para Popayán.
+    * Consulta en tiempo real la **API de OpenWeatherMap** para Pasto, Nariño.
     * Fusiona los datos del Sensor + API en una sola fila.
     * Guarda los datos en **Google Sheets** y la foto en **Google Drive**.
 5.  **Visualización:** Los datos se explotan en un Dashboard de **Google Looker Studio**.
