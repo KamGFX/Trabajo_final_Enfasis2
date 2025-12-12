@@ -66,3 +66,5 @@ try:
     
 except Exception as e:
     print(f"Error al cargar el modelo: {e}")
+
+
