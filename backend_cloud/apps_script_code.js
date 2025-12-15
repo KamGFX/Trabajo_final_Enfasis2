@@ -9,7 +9,6 @@
 // =====================================================
 // 1. CONFIGURACIÓN GLOBAL
 // =====================================================
-// *** ¡ATENCIÓN! REEMPLAZA ESTE ID con el ID de TU hoja de cálculo ***
 var ID_HOJA = "1j-cqReINek2gllWAopJKMUmSFpJiBqFM-dtAaAGLXrE"; 
 var ID_CARPETA = ""; 
 
